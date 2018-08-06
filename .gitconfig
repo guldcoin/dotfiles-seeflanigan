@@ -1,0 +1,9 @@
+[user]
+	username = seeflanigan
+	name = Cory Flanigan
+	location = Denver, CO
+	bio = CTO working in the Blockchain space doing Fintech/Regtech
+[commit]
+	gpgsign = true
+[aliases]
+	github = seeflanigan
